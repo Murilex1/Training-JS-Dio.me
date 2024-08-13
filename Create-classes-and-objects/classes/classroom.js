@@ -29,13 +29,11 @@ const Felipe = new Person('Felipe',30);
 comparePeople(Muliro,Felipe);
 
 //With constructor
-// const Muliro = new Person('Muliro',25);
+ const Murilo = new Person('Muliro',25);
 
-/*
-Method without constructor
-    Muliro.name = 'Muliro';
-    Muliro.age = 25;
-    Muliro.describe();
-*/
 
-// console.log(Muliro)
+//Method without constructor
+ Murilo.name = 'Muliro'; 
+ Murilo.age = 25;
+ Murilo.describe();
+
