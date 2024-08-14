@@ -1,9 +1,9 @@
 /*Multiplication table */
-// let number = 0;
-// for(let i=0;i<11;i++){
-//     number = i * 5;
-//     console.log(`5 x ${i} = ${number}`);
-// }
+ let number = 0;
+ for(let i=0;i<11;i++){
+     number = i * 5;
+     console.log(`5 x ${i} = ${number}`);
+}
 /*---------------*/
 
 /*Number pair*/
